@@ -1,8 +1,8 @@
-# 文字传奇 (WordCQ)
+# 文字传奇WEB (WordCQ)
 
 > 一款基于 Node.js + Express 的文字放置类 RPG 游戏，灵感来源于经典传奇系列网游
 
-**当前版本**: v0.3.3  
+**当前版本**: v0.5.5（详见 `Backend/package.json`）  
 **最后更新**: 2026-03-25
 
 ---
@@ -578,6 +578,9 @@ DEF = 4 + (level - 1) × 1
 
 ## 📝 更新日志
 
+### v0.5.5 (2026-03-25)
+- ✅ 完善怪物，装备系统
+
 ### v0.3.3 (2026-03-25)
 - ✅ 修复药水图标显示不一致问题
 - ✅ 优化装备对比窗口 UI
@@ -608,9 +611,9 @@ DEF = 4 + (level - 1) × 1
 
 ## 👥 开发团队
 
-- **主程**: Backend architecture & Game logic
-- **UI**: Frontend interface design
-- **策划**: Game balance & content design
+- **主程**: SD5212146 / Hua Miller
+- **UI**: SD5212146 / Hua Miller
+- **策划**: SD5212146 / Hua Miller
 
 ---
 
